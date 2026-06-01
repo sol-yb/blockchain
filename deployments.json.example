@@ -1,0 +1,9 @@
+{
+  "tokenA": "0x1234567890123456789012345678901234567890",
+  "tokenB": "0x0987654321098765432109876543210987654321",
+  "tokenC": "0xabcdefabcdefabcdefabcdefabcdefabcdefabcd",
+  "router": "0xfedcbafedcbafedcbafedcbafedcbafedcbafed",
+  "deployer": "0x1111111111111111111111111111111111111111",
+  "network": "sepolia",
+  "timestamp": "2026-05-16T10:30:00.000Z"
+}
